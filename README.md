@@ -1,12 +1,12 @@
 # C83Ascii
 
+## Ascii character table definitions
+
 3rd edition of the library
 
 part of the C83Project<br>
 support for 8.3 file naming conventions with the exception of the main include and code files<br>
 support C89 and higher editions<br>
-
-ascii character table macro definition
 
 <br>
 
