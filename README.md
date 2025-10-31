@@ -1,6 +1,6 @@
 # C83Ascii
 
-## Ascii character table definitions
+## Ascii character table definitions for C and C++
 
 3rd edition of the library
 
