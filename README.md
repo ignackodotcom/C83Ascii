@@ -23,3 +23,7 @@ Example of use
 # Updates
 2025 10 30 AsciiTab.h renamed to PAscii.h<br>
 <br>
+2025 11 01 ASCII_AT_SIGN renamed to ASCII_AT<br>
+2025 11 01 PAsciiEx.h extended character definitions added<br>
+2025 11 01 Detailed description<br>
+<br>

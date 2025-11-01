@@ -6,7 +6,7 @@
 *			 https://github.com/ignackodotcom
 * \copyright Copyright (c) 1994 - 2026
 *            MIT License (see License.txt file)
-* \brief     Ascii char table constants library
+* \brief     Ascii character table definitions for C and C++ library
 * \details
 *
 * \see       https://github.com/ignackodotcom
@@ -19,6 +19,7 @@
 
 
 #include "PAscii.h"
+#include "PAsciiEx.h"
 
 
 

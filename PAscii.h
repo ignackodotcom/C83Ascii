@@ -92,7 +92,7 @@
 #define ASCII_EQUALS                '='   /* 61  */ /* 3D */
 #define ASCII_GREATER_THAN          '>'   /* 62  */ /* 3E */
 #define ASCII_QUESTION_MARK         '?'   /* 63  */ /* 3F */
-#define ASCII_AT_SIGN               '@'   /* 64  */ /* 40 */
+#define ASCII_AT		            '@'   /* 64  */ /* 40 */
 
 #define ASCII_A                     'A'   /* 65  */ /* 41 */
 #define ASCII_B                     'B'   /* 66  */ /* 42 */
