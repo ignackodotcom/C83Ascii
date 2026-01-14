@@ -6,7 +6,7 @@
 *			 https://github.com/ignackodotcom
 * \copyright Copyright (c) 1994 - 2026
 *            MIT License (see License.txt file)
-* \brief     Extended Ascii char table constants
+* \brief     Extended Ascii char table constants CP437 (Code Page 437)
 * \details
 *
 * \see       https://github.com/ignackodotcom
@@ -18,7 +18,8 @@
 #define PASCIIEX_H      20260101L
 
 
-/* Complete extended ascii table characters */
+
+/* Complete extended ascii table characters constants CP437 (Code Page 437) */
 #define ASCII_LATIN_CAPITAL_LETTER_C_WITH_CEDILLA					128		/* 80 */
 #define ASCII_LATIN_SMALL_LETTER_U_WITH_DIAERESIS					129		/* 81 */
 #define ASCII_LATIN_SMALL_LETTER_E_WITH_ACUTE						130		/* 82 */
@@ -55,11 +56,11 @@
 #define ASCII_LIRA													156		/* 9C */
 
 #define ASCII_YEN	 												157		/* 9D */
-#define ASCII_YUAN													157		/* 9D */
 
 #define ASCII_PESETA												158		/* 9E */
 
 #define ASCII_LATIN_SMALL_LETTER_F_WITH_HOOK						159		/* 9F */
+#define ASCII_FLORIN												159		/* 9F */
 #define ASCII_FUNCTION_SYMBOL										159		/* 9F */
 
 #define ASCII_LATIN_SMALL_LETTER_A_WITH_ACUTE						160		/* A0 */
@@ -183,6 +184,7 @@
 
 #define ASCII_BLACK_SQUARE											254		/* FE */
 #define ASCII_NON_BREAKING_SPACE									255		/* FF */
+
 
 
 #endif /* PASCIIEX_H */
