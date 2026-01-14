@@ -159,10 +159,10 @@
 #define ASCII_z                     'z'   /* 122 */ /* 7A */
 
 #define ASCII_OPENING_BRACE         '{'   /* 123 */ /* 7B */
-#define ASCII_LEFT_CURLY_BRACKET    '{'   /* 123 */ /* 7B */
+#define ASCII_LEFT_CURLY_BRACE      '{'   /* 123 */ /* 7B */
 #define ASCII_VERTICAL_BAR          '|'   /* 124 */ /* 7C */
 #define ASCII_CLOSING_BRACE         '}'   /* 125 */ /* 7D */
-#define ASCII_RIGHT_CURLY_BRACKET   '}'   /* 125 */ /* 7D */
+#define ASCII_RIGHT_CURLY_BRACE     '}'   /* 125 */ /* 7D */
 #define ASCII_TILDE                 '~'   /* 126 */ /* 7E */
 
 #define ASCII_DEL                   127   /* 127 */ /* 7F */ /* Delete */
