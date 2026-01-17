@@ -1,6 +1,6 @@
 /******************************************************************************
 * \file      C83Ascii.h
-* \version   2026.01.01
+* \version   2026.01.01 26.00.01.01 (YYYYMMDD XXYYZZWW)
 * \author    Peter Potrok ( @ignackodotcom )
 *            ignacko.com@outlook.com
 *			 https://github.com/ignackodotcom
@@ -14,7 +14,7 @@
 ******************************************************************************/
 
 #ifndef C83ASCII_H
-#define C83ASCII_H		20260101L
+#define C83ASCII_H
 
 
 
@@ -23,10 +23,23 @@
 
 
 
+/******************************************************************************
+* version date format YYYYMMDD
+*/
+#define C83ASCII_VERSION_DATE	20260117L
+
+/******************************************************************************
+* version number format XXYYZZWW
+*/
+#define C83ASCII_VERSION_NUMBER 26000101L
+
+
+
 #ifdef __cplusplus
 extern "C" {
 #endif
 
+    long C83ASCII_DATE(void);
     long C83ASCII_VERSION(void);
 
 #ifdef __cplusplus

@@ -1,6 +1,6 @@
 /******************************************************************************
 * \file      C83Ascii.c
-* \version   2026.01.01
+* \version   2026.01.01 26.00.01.01 (YYYYMMDD XXYYZZWW)
 * \author    Peter Potrok ( @ignackodotcom )
 *            ignacko.com@outlook.com
 *			 https://github.com/ignackodotcom
@@ -17,7 +17,12 @@
 
 
 
+long C83ASCII_DATE(void)
+{
+    return (C83ASCII_VERSION_DATE);
+}
+
 long C83ASCII_VERSION(void)
 {
-    return (C83ASCII_H);
+    return (C83ASCII_VERSION_NUMBER);
 }

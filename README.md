@@ -167,13 +167,14 @@ This library is licensed under the MIT License. See the LICENSE file for details
 
 
 ## Updates
-| YYYY MM DD | Brief description of updates   |
-|------------|--------------------------------|
-| 2025 10 30 | AsciiTab.h renamed to PAscii.h |
-| 2025 11 01 | ASCII_AT_SIGN renamed to ASCII_AT |
-| 2025 11 01 | PAsciiEx.h extended character definitions added |
-| 2025 11 01 | Updated README.md with new file names and descriptions |
-| 2025 11 14 | ASCII_YUAN sign removed from PAsciiEx.h |
-| 2026 01 14 | LEFT_CURLY_BRACKET renamed to LEFT_CURLY_BRACE |
-| 2026 01 14 | RIGHT_CURLY_BRACKET renamed to RIGHT_CURLY_BRACE |
-| 2026 01 14 | Updated README.md for clarity and completeness |
+| YYYY MM DD | XX YY ZZ WW | Brief description of updates                           |
+|------------|-------------|--------------------------------------------------------|
+| 2025 10 30 |             | AsciiTab.h renamed to PAscii.h                         |
+| 2025 11 01 |             | ASCII_AT_SIGN renamed to ASCII_AT                      |
+| 2025 11 01 |             | PAsciiEx.h extended character definitions added        |
+| 2025 11 01 |             | Updated README.md with new file names and descriptions |
+| 2025 11 14 |             | ASCII_YUAN sign removed from PAsciiEx.h                |
+| 2026 01 14 |             | LEFT_CURLY_BRACKET renamed to LEFT_CURLY_BRACE         |
+| 2026 01 14 |             | RIGHT_CURLY_BRACKET renamed to RIGHT_CURLY_BRACE       |
+| 2026 01 14 |             | Updated README.md for clarity and completeness         |
+| 2026 01 17 | 26 00 01 01 | Modify project versioning                              |
